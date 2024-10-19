@@ -12,7 +12,9 @@
 - ⚡ Fun fact **I love to communicate, but I'm usually alone because shy :P**
 
 <h3 align="left">Connect with me:</h3>
-[Mastodon](https://c.im/home)  
+
+[Mastodon](https://c.im/home)
+
 [Matrix](https://matrix.to/#/@naadiyaar:fedora.im)
 <p align="left">
 </p>
