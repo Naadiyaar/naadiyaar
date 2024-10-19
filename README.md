@@ -9,7 +9,7 @@
 
 - 📫 My email address is **naadiyaar@protonmail.com**
 
-- ⚡ Fun fact **I love to communicate, but I'm usually alone because shy :P**
+- ⚡ Fun fact **I use Neovim, BTW**
 
 <h3 align="left">Connect with me:</h3>
 
