@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nadiyar Mansouri</h1>
-<h3 align="center">An open-source enthuisist and privacy advocate. I'm studying to become a better engineer :)</h3>
+<h3 align="center">An open-source enthuisist and privacy advocate, studying to become a better engineer :)</h3>
 
 - 🔭 I’m currently working on **Mobham (private for now)**
 
